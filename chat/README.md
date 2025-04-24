@@ -406,7 +406,7 @@
 
   <tr><td rowspan="9">Diagnostic</td><td rowspan="3">Basic</td><td>1</td><td>How do sex and age distribution differences contribute to variations in HIV prevalence between Tanzania and Mexico?</td>
 <td><a href="https://chatgpt.com/share/67ed847c-7dd0-8000-aed6-3dd7c7c33a46">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_e9396e6f-0274-4f80-a76a-97bb96afb548">Link</a></td><td>File</td>
+<td><a href="https://grok.com/share/bGVnYWN5_cd79277e-b12c-424d-a64c-bb5e4cf6096b">Link</a></td><td>File</td>
 <td><a href="https://chat.qwen.ai/s/d56a0e0c-9eb6-4513-ab96-8b318e31617f">Link</a></td><td>File</td></tr>
 
 <tr><td>2</td><td>Is there an association between mother-to-child HIV transmission rates and changes in HIV-associated mortality at the national level from 2005 to 2023?</td>
@@ -787,3 +787,125 @@
 
 
 ### Results for Database 3: HIV
+
+<table border="1" style="font-size: small; width: 100%; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th rowspan="3">Model</th>
+      <th rowspan="3">Level</th>
+      <th rowspan="3">Question</th>
+      <th colspan="4">Descriptive</th>
+      <th colspan="4">Diagnostic</th>
+      <th colspan="4">Predictive</th>
+      <th colspan="4">Prescriptive</th>
+    </tr>
+    <tr>
+      <th colspan="2">Answer</th>
+      <th colspan="2">Problem</th>
+      <th colspan="2">Answer</th>
+      <th colspan="2">Problem</th>
+      <th colspan="2">Answer</th>
+      <th colspan="2">Problem</th>
+      <th colspan="2">Answer</th>
+      <th colspan="2">Problem</th>
+    </tr>
+    <tr>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Correct</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Incorrect</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Warning</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Interruption</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Correct</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Incorrect</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Warning</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Interruption</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Correct</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Incorrect</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Warning</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Interruption</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Correct</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Incorrect</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Warning</th>
+      <th style="writing-mode: vertical-rl; transform: rotate(180deg);">Interruption</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- ChatGPT -->
+    <tr><td rowspan="9"><b>ChatGPT's Data Analyst</b></td><td rowspan="3">Basic</td><td>1</td><td>X</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td></tr>
+    <tr><td>2</td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td></tr>
+    <tr><td>3</td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td></tr>
+    <tr><td rowspan="3">Moderate</td><td>1</td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td></tr>
+    <tr><td>2</td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td></tr>
+    <tr><td>3</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td></tr>
+    <tr><td rowspan="3">Challenging</td><td>1</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
+    <tr><td>2</td><td>X</td><td></td><td>X</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td></tr>
+    <tr><td>3</td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td></tr>
+
+  <!-- Grok -->
+<tr>
+  <td rowspan="9">Grok</td>
+  <td rowspan="3">Basic</td>
+  <td>1</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>2</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>3</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td rowspan="3">Moderate</td>
+  <td>1</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>2</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td><td>X</td><td></td>
+</tr>
+<tr>
+  <td>3</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td>
+  <td>X</td>
+</tr>
+<tr>
+  <td rowspan="3">Challenging</td>
+  <td>1</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>2</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td>
+</tr>
+<tr>
+  <td>3</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+
+<!-- Qwen -->
+<tr>
+  <td rowspan="9">Qwen</td>
+  <td rowspan="3">Basic</td>
+  <td>1</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td></td>
+</tr>
+<tr>
+  <td>2</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>3</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td rowspan="3">Moderate</td>
+  <td>1</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>2</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>3</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td>
+  <td>X</td>
+</tr>
+<tr>
+  <td rowspan="3">Challenging</td>
+  <td>1</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>2</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+<tr>
+  <td>3</td><td></td><td>X</td><td></td><td></td><td></td><td>X</tdX><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+</tr>
+  </tbody>
+</table>
