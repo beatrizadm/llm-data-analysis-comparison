@@ -704,7 +704,7 @@
   <tbody>
     <!-- ChatGPT -->
     <tr><td rowspan="9"><b>ChatGPT's Data Analyst</b></td><td rowspan="3">Basic</td><td>1</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td></tr>
-    <tr><td>2</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td></tr>
+    <tr><td>2</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td></tr>
     <tr><td>3</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td></tr>
     <tr><td rowspan="3">Moderate</td><td>1</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
     <tr><td>2</td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td></tr>
@@ -772,7 +772,7 @@
 </tr>
 <tr>
   <td rowspan="3">Challenging</td>
-  <td>1</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
+  <td>1</td><td>X</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
   <td></td><td>X</td><td></td><td>X</td><td></td><td>X</td>
 </tr>
 <tr>

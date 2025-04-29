@@ -3,7 +3,7 @@
 
 | Database  | Code |
 | ------------- | ------------- |
-| Academic Records from UFCG | [File](./files/X.ipynb) |
-| Sicor |  [File](./files/Y.ipynb) |
-| HIV | [File](./files/Z.ipynb) |
+| Academic Records from UFCG | [File](./ufcg_results.ipynb) |
+| Sicor |  [File](./) |
+| HIV | [File](./hiv_results.ipynb) |
 
