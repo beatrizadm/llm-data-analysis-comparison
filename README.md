@@ -15,55 +15,19 @@ Official repo for "How Effectively Do LLMs Automate Data Analysis? A Comparative
 .
 ├── chat/                                
 │   ├── Academic Records from UFCG/      
-│   │   ├── ChatGPTs Data Analyst/
-│   │   │   ├── descriptive/             
-│   │   │   ├── diagnostic/              
-│   │   │   ├── predictive/              
-│   │   │   └── prescriptive/            
+│   │   ├── ChatGPTs Data Analyst/          
 │   │   ├── Grok/
-│   │   │   ├── descriptive/
-│   │   │   ├── diagnostic/
-│   │   │   ├── predictive/
-│   │   │   └── prescriptive/
 │   │   └── Qwen/
-│   │       ├── descriptive/
-│   │       ├── diagnostic/
-│   │       ├── predictive/
-│   │       └── prescriptive/
 │   │ 
 │   ├── HIV/                             
 │   │   ├── ChatGPTs Data Analyst/
-│   │   │   ├── descriptive/
-│   │   │   ├── diagnostic/
-│   │   │   ├── predictive/
-│   │   │   └── prescriptive/
 │   │   ├── Grok/
-│   │   │   ├── descriptive/
-│   │   │   ├── diagnostic/
-│   │   │   ├── predictive/
-│   │   │   └── prescriptive/
 │   │   └── Qwen/
-│   │       ├── descriptive/
-│   │       ├── diagnostic/
-│   │       ├── predictive/
-│   │       └── prescriptive/
 │   │
 │   └── Sicor/                           
 │       ├── ChatGPTs Data Analyst/
-│       │   ├── descriptive/
-│       │   ├── diagnostic/
-│       │   ├── predictive/
-│       │   └── prescriptive/
 │       ├── Grok/
-│       │   ├── descriptive/
-│       │   ├── diagnostic/
-│       │   ├── predictive/
-│       │   └── prescriptive/
 │       └── Qwen/
-│           ├── descriptive/
-│           ├── diagnostic/
-│           ├── predictive/
-│           └── prescriptive/
 │
 ├── code/                                 
 
