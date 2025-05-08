@@ -70,7 +70,7 @@
 <tr><td>3</td><td>Identify the student who attended the fewest semesters but achieved the highest overall average, based on non-null grades.</td>
 <td><a href="https://chatgpt.com/share/67de2851-5d44-8012-b10f-533762ca5b8d" target="_blank">Link</a></td><td><a href="../chat/Academic Records from UFCG/ChatGPTs Data Analyst/chatgpt-descriptive-moderate-3.pdf" target="_blank">File</a></td>
 <td><a href="https://grok.com/share/bGVnYWN5_1816ee10-584f-48c7-adbd-98e0ffaef31b" target="_blank">Link</a></td><td><a href="../chat/Academic Records from UFCG/Grok/grok-descriptive-moderate-3.pdf" target="_blank">File</a></td>
-<td><a href="https://chat.qwen.ai/c/e0ab07b4-2e2b-442c-b04a-a93c288a7b13" target="_blank">Link</a></td><td><a href="../chat/Academic Records from UFCG/Grok/qwen-descriptive-moderate-3.pdf" target="_blank">File</a></td></tr>
+<td><a href="https://chat.qwen.ai/c/e0ab07b4-2e2b-442c-b04a-a93c288a7b13" target="_blank">Link</a></td><td><a href="../chat/Academic Records from UFCG/Qwen/qwen-descriptive-moderate-3.pdf" target="_blank">File</a></td></tr>
 
 <tr><td rowspan="3">Challenging</td><td>1</td><td>Determine the statistical correlation (Pearson or Spearman) between students’ overall average and their enrollment period (first vs. second semester). Should correlation coefficients be consistent across different years, what factors might explain this pattern?</td>
 <td><a href="https://chatgpt.com/share/67de2c89-623c-8012-b069-20899d8cff65" target="_blank">Link</a></td><td><a href="../chat/Academic Records from UFCG/ChatGPTs Data Analyst/chatgpt-descriptive-challenging-1.pdf" target="_blank">File</a></td>
@@ -125,7 +125,7 @@
 <tr><td>3</td><td>Evaluate the academic performance (e.g., average grade, improvement rate) of the bottom 10% of students in mathematics sector courses. Propose three analytical methods and select the best option.</td>
 <td><a href="https://chatgpt.com/share/67df575f-7154-8002-9353-a4bb8d18457a">Link</a></td><td><a href="../chat/Academic Records from UFCG/ChatGPTs Data Analyst/chatgpt-prescriptive-basic-3.pdf">File</a></td>
 <td><a href="https://grok.com/share/bGVnYWN5_f2fa2cf2-dbfd-40a6-a3b5-62926528899d">Link</a></td><td><a href="../chat/Academic Records from UFCG/Grok/grok-prescriptive-basic-3.pdf">File</a></td>
-<td><a href="https://chat.qwen.ai/s/6ffcc42a-0469-4060-8f48-8715dee6a6e7">Link</a></td><td><a href="../chat/Academic Records from UFCG/ChatGPTs Data Analyst/qwen-prescriptive-basic-3.pdf">File</a></td></tr>
+<td><a href="https://chat.qwen.ai/s/6ffcc42a-0469-4060-8f48-8715dee6a6e7">Link</a></td><td><a href="../chat/Academic Records from UFCG/Qwen/qwen-prescriptive-basic-3.pdf">File</a></td></tr>
 
 <tr><td rowspan="3">Moderate</td><td>1</td><td>Analyze the relationship between extra-curricular participation (with no failures or dropouts) and academic success using correlation tests (Pearson, Spearman), regression models, and propensity score matching. Compare the effectiveness of each approach.</td>
 <td><a href="https://chatgpt.com/share/67df5806-4c30-8002-9560-ec08bd674f1a">Link</a></td><td><a href="../chat/Academic Records from UFCG/ChatGPTs Data Analyst/chatgpt-prescriptive-moderate-1.pdf">File</a></td>
