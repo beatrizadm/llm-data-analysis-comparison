@@ -334,152 +334,128 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-  <td rowspan="9">Descriptive</td>
-  <td rowspan="3">Basic</td>
-  <td>1</td>
-  <td>What is the mean annual incidence of new HIV cases globally between 2005 and 2023?</td>
-  <td><a href="https://chatgpt.com/share/67ddcd7c-76c4-8002-89d4-d4d7924836da">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_cf804917-5bcd-4529-bd34-eb14581a01ab">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/9ffb1b36-e665-44df-a368-8150cb36121f">Link</a></td><td>File</td>
+<tr>
+<td rowspan="9">Descriptive</td>
+<td rowspan="3">Basic</td>
+<td>1</td>
+<td>What is the mean annual incidence of new HIV cases globally between 2005 and 2023?</td>
+<td><a href="https://chatgpt.com/share/67ddcd7c-76c4-8002-89d4-d4d7924836da">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-basic-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_cf804917-5bcd-4529-bd34-eb14581a01ab">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-basic-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/9ffb1b36-e665-44df-a368-8150cb36121f">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-basic-1.pdf">File</a></td>
 </tr>
 <tr>
-  <td>2</td>
-  <td>What is the HIV prevalence by age group and gender in 2023?</td>
-  <td><a href="https://chatgpt.com/share/67ddd2a1-1984-800c-9552-313ecfa256a2">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_bbb43429-93cb-4c18-922d-380d55768243">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/e5179c26-e454-46fc-bd56-4cd1092ab939">Link</a></td><td>File</td>
+<td>2</td>
+<td>What is the HIV prevalence by age group and gender in 2023?</td>
+<td><a href="https://chatgpt.com/share/67ddd2a1-1984-800c-9552-313ecfa256a2">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-basic-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_bbb43429-93cb-4c18-922d-380d55768243">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-basic-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/e5179c26-e454-46fc-bd56-4cd1092ab939">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-basic-2.pdf">File</a></td>
 </tr>
 <tr>
-  <td>3</td>
-  <td>Which age group has the highest percentage increase in new HIV cases from 2005 to 2023?</td>
-  <td><a href="https://chatgpt.com/share/67e6d69f-1134-8011-857e-608631953e1a">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_ae932f2c-9db9-4773-9ed3-522a8ca87f82">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/a98d1126-84f7-4472-af8b-2aed102730f8">Link</a></td><td>File</td>
-</tr>
-
-<tr>
-  <td rowspan="3">Moderate</td>
-  <td>1</td>
-  <td>How has HIV-associated mortality changed annually by region from 2005 to 2023?</td>
-  <td><a href="https://chatgpt.com/share/67e306fb-437c-800a-8a1c-aed16b3bd874">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_5318ffba-3fa9-45b3-8992-5f6cf1c8219d">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/8edd3220-451c-48b5-a8d7-ee6439f51d9e">Link</a></td><td>File</td>
+<td>3</td>
+<td>Which age group has the highest percentage increase in new HIV cases from 2005 to 2023?</td>
+<td><a href="https://chatgpt.com/share/67e6d69f-1134-8011-857e-608631953e1a">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-basic-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_ae932f2c-9db9-4773-9ed3-522a8ca87f82">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-basic-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/a98d1126-84f7-4472-af8b-2aed102730f8">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-basic-3.pdf">File</a></td>
 </tr>
 <tr>
-  <td>2</td>
-  <td>Which country has the lowest HIV prevalence among those in the highest quartile for new infections?</td>
-  <td><a href="https://chatgpt.com/share/67ed7713-ce50-8000-a5c4-f5cd44131f7c">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_e09c5e4b-76e0-48da-a4d6-ba502aa474c9">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/9ab51edb-3516-4870-a93e-36f2c6dccb70">Link</a></td><td>File</td>
+<td rowspan="3">Moderate</td>
+<td>1</td>
+<td>How has HIV-associated mortality changed annually by region from 2005 to 2023?</td>
+<td><a href="https://chatgpt.com/share/67e306fb-437c-800a-8a1c-aed16b3bd874">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-moderate-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_5318ffba-3fa9-45b3-8992-5f6cf1c8219d">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-moderate-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/8edd3220-451c-48b5-a8d7-ee6439f51d9e">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-moderate-1.pdf">File</a></td>
 </tr>
 <tr>
-  <td>3</td>
-  <td>Which region has the highest mother-to-child transmission rate for male infants?</td>
-  <td><a href="https://chatgpt.com/share/67ed7c02-ba54-8000-9881-6ca392bcf8b8">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_b6b4a6ab-30f1-4123-a6bd-544fc2d4b5b2">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/00a02106-d09e-4a90-b354-3e9f80f77126">Link</a></td><td>File</td>
-</tr>
-
-<tr>
-  <td rowspan="3">Challenging</td>
-  <td>1</td>
-  <td>Describe the cumulative distribution of HIV prevalence across regions using a Lorenz curve representation.</td>
-  <td><a href="https://chatgpt.com/share/67ed7dd5-e8e4-8000-873e-1e4bba30ae4b">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_57f84aca-0acd-45f8-971b-97cb3c6c237d">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/85303e06-8fde-451f-9ba8-dbba697b7f16">Link</a></td><td>File</td>
+<td>2</td>
+<td>Which country has the lowest HIV prevalence among those in the highest quartile for new infections?</td>
+<td><a href="https://chatgpt.com/share/67ed7713-ce50-8000-a5c4-f5cd44131f7c">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-moderate-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_e09c5e4b-76e0-48da-a4d6-ba502aa474c9">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-moderate-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/9ab51edb-3516-4870-a93e-36f2c6dccb70">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-moderate-2.pdf">File</a></td>
 </tr>
 <tr>
-  <td>2</td>
-  <td>Which region shows the least fluctuation in HIV-associated mortality rates from 2005 to 2023?</td>
-  <td><a href="https://chatgpt.com/share/67ed7ecd-f718-8000-be03-5b3e1d01fc1a">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_52615f29-fa4d-4c08-8a6f-dd077a2e32ce">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/de321925-ff61-49b3-b63e-ced3dab79e73">Link</a></td><td>File</td>
+<td>3</td>
+<td>Which region has the highest mother-to-child transmission rate for male infants?</td>
+<td><a href="https://chatgpt.com/share/67ed7c02-ba54-8000-9881-6ca392bcf8b8">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-moderate-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_b6b4a6ab-30f1-4123-a6bd-544fc2d4b5b2">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-moderate-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/00a02106-d09e-4a90-b354-3e9f80f77126">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-moderate-3.pdf">File</a></td>
 </tr>
 <tr>
-  <td>3</td>
-  <td>What patterns are observed in AIDS-related mortality rates across different age and gender demographics?</td>
-  <td><a href="https://chatgpt.com/share/67ed8257-1680-8000-bad7-0f7bd45f3733">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_9bd8fc87-488f-42db-93d9-59e81fcf1342">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/a390f403-a7bb-4357-a64e-547d1748c36a">Link</a></td><td>File</td>
+<td rowspan="3">Challenging</td>
+<td>1</td>
+<td>Describe the cumulative distribution of HIV prevalence across regions using a Lorenz curve representation.</td>
+<td><a href="https://chatgpt.com/share/67ed7dd5-e8e4-8000-873e-1e4bba30ae4b">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-challenging-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_57f84aca-0acd-45f8-971b-97cb3c6c237d">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-challenging-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/85303e06-8fde-451f-9ba8-dbba697b7f16">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-challenging-1.pdf">File</a></td>
 </tr>
-
-
-  <tr><td rowspan="9">Diagnostic</td><td rowspan="3">Basic</td><td>1</td><td>How do sex and age distribution differences contribute to variations in HIV prevalence between Tanzania and Mexico?</td>
-<td><a href="https://chatgpt.com/share/67ed847c-7dd0-8000-aed6-3dd7c7c33a46">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_cd79277e-b12c-424d-a64c-bb5e4cf6096b">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/d56a0e0c-9eb6-4513-ab96-8b318e31617f">Link</a></td><td>File</td></tr>
-
+<tr>
+<td>2</td>
+<td>Which region shows the least fluctuation in HIV-associated mortality rates from 2005 to 2023?</td>
+<td><a href="https://chatgpt.com/share/67ed7ecd-f718-8000-be03-5b3e1d01fc1a">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-challenging-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_52615f29-fa4d-4c08-8a6f-dd077a2e32ce">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-challenging-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/de321925-ff61-49b3-b63e-ced3dab79e73">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-challenging-2.pdf">File</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>What patterns are observed in AIDS-related mortality rates across different age and gender demographics?</td>
+<td><a href="https://chatgpt.com/share/67ed8257-1680-8000-bad7-0f7bd45f3733">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-descriptive-challenging-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_9bd8fc87-488f-42db-93d9-59e81fcf1342">Link</a></td><td><a href="../chat/HIV/Grok/grok-descriptive-challenging-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/a390f403-a7bb-4357-a64e-547d1748c36a">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-descriptive-challenging-3.pdf">File</a></td>
+</tr>
+<tr><td rowspan="9">Diagnostic</td><td rowspan="3">Basic</td><td>1</td><td>How do sex and age distribution differences contribute to variations in HIV prevalence between Tanzania and Mexico?</td>
+<td><a href="https://chatgpt.com/share/67ed847c-7dd0-8000-aed6-3dd7c7c33a46">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-basic-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_cd79277e-b12c-424d-a64c-bb5e4cf6096b">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-basic-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/d56a0e0c-9eb6-4513-ab96-8b318e31617f">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-basic-1.pdf">File</a></td></tr>
 <tr><td>2</td><td>Is there an association between mother-to-child HIV transmission rates and changes in HIV-associated mortality at the national level from 2005 to 2023?</td>
-<td><a href="https://chatgpt.com/share/67ed858b-5f5c-8000-b437-55a12c180201">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_7920cf72-2889-40ff-a639-a60ccff8f4c7">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/c9769907-58bd-4bef-a80f-9390c200fe4d">Link</a></td><td>File</td></tr>
-
+<td><a href="https://chatgpt.com/share/67ed858b-5f5c-8000-b437-55a12c180201">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-basic-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_7920cf72-2889-40ff-a639-a60ccff8f4c7">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-basic-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/c9769907-58bd-4bef-a80f-9390c200fe4d">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-basic-2.pdf">File</a></td></tr>
 <tr><td>3</td><td>What factors contribute to variations in HIV-associated mortality across countries within the same region?</td>
-<td><a href="https://chatgpt.com/share/67ed861d-2d14-8000-9c4c-6f7d644eb502">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_48a7ba5f-909b-4a51-bea9-6e46041414cf">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/626c4c6c-1952-4ba9-bc56-8d826804e0ae">Link</a></td><td>File</td></tr>
-
+<td><a href="https://chatgpt.com/share/67ed861d-2d14-8000-9c4c-6f7d644eb502">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-basic-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_48a7ba5f-909b-4a51-bea9-6e46041414cf">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-basic-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/626c4c6c-1952-4ba9-bc56-8d826804e0ae">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-basic-3.pdf">File</a></td></tr>
 <tr><td rowspan="3">Moderate</td><td>1</td><td>How has HIV prevalence changed over time, and what demographic or policy factors might account for observed patterns?</td>
-<td><a href="https://chatgpt.com/share/67ed9f5e-9e28-8000-888f-8a1de2a5356b">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_369c6d1e-7e5e-4fde-a6a6-a9811a801a73">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/434ae6a4-38d6-4402-905d-feeed70f16b0">Link</a></td><td>File</td></tr>
-
+<td><a href="https://chatgpt.com/share/67ed9f5e-9e28-8000-888f-8a1de2a5356b">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-moderate-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_369c6d1e-7e5e-4fde-a6a6-a9811a801a73">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-moderate-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/434ae6a4-38d6-4402-905d-feeed70f16b0">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-moderate-1.pdf">File</a></td></tr>
 <tr><td>2</td><td>Is there a spatial relationship between new adolescent HIV infections and the prevalence of HIV among women within the same region?</td>
-<td><a href="https://chatgpt.com/share/67eda4c7-f598-8000-943f-8d58b657be83">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_279c427e-8da4-4432-9b30-a05b845891da">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/9818b6c1-1073-4655-8312-05b955bd4ca5">Link</a></td><td>File</td></tr>
-
+<td><a href="https://chatgpt.com/share/67eda4c7-f598-8000-943f-8d58b657be83">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-moderate-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_279c427e-8da4-4432-9b30-a05b845891da">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-moderate-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/9818b6c1-1073-4655-8312-05b955bd4ca5">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-moderate-2.pdf">File</a></td></tr>
 <tr><td>3</td><td>What factors contribute to differences in HIV incidence rates between children (0–14) and adolescents (15–19) in Europe in 2023?</td>
-<td><a href="https://chatgpt.com/share/67eda7a8-3538-8000-91b6-bffaed29af6d">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_b0791664-0e34-484a-a221-a33d232da305">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/699f66ae-4b0c-42d2-b47d-2502749374f7">Link</a></td><td>File</td></tr>
-
+<td><a href="https://chatgpt.com/share/67eda7a8-3538-8000-91b6-bffaed29af6d">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-moderate-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_b0791664-0e34-484a-a221-a33d232da305">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-moderate-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/699f66ae-4b0c-42d2-b47d-2502749374f7">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-moderate-3.pdf">File</a></td></tr>
 <tr><td rowspan="3">Challenging</td><td>1</td><td>How do regional sociodemographic factors correlate with fluctuations in new HIV infections among children (0–14) in Africa from 2005 to 2023, while accounting for confounding variables?</td>
-<td><a href="https://chatgpt.com/share/67edaaf7-01c8-8000-bbed-be003cfb590d">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_20b40365-64f7-4347-8964-a15a6ca626d4">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/48f49ae7-995d-4b3e-8b48-b9bbe4de9a69">Link</a></td><td>File</td></tr>
-
+<td><a href="https://chatgpt.com/share/67edaaf7-01c8-8000-bbed-be003cfb590d">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-challenging-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_20b40365-64f7-4347-8964-a15a6ca626d4">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-challenging-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/48f49ae7-995d-4b3e-8b48-b9bbe4de9a69">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-challenging-1.pdf">File</a></td></tr>
 <tr><td>2</td><td>What factors best explain regional disparities in vertical HIV transmission trends in the Americas (2005–2023), and how can a diagnostic model incorporate data limitations in intervention tracking?</td>
-<td><a href="https://chatgpt.com/share/67edac48-ea90-8000-a2d5-37e99d0c8ad7">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_cebc63c2-b886-4ad9-88ac-e86498762386">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/31f37c3a-3a30-4c00-8979-be712266aaaf">Link</a></td><td>File</td></tr>
-
+<td><a href="https://chatgpt.com/share/67edac48-ea90-8000-a2d5-37e99d0c8ad7">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-challenging-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_cebc63c2-b886-4ad9-88ac-e86498762386">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-challenging-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/31f37c3a-3a30-4c00-8979-be712266aaaf">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-challenging-2.pdf">File</a></td></tr>
 <tr><td>3</td><td>Propose three appropriate statistical tests and select the best one to determine whether the observed differences in HIV incidence rates between adolescent girls and boys in Europe over time differ from those in Africa. Then, apply the selected test and extract the results.</td>
-<td><a href="https://chatgpt.com/share/67edacc5-bfa8-8000-acb3-b8d760740b8b">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_6f5bcc82-c988-4dc4-a919-8676acc44ecf">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/40d5af7c-b938-42d3-a557-b27ea1f86d5a">Link</a></td><td>File</td></tr>
-
-
-
- <tr><td rowspan="9">Predictive</td><td rowspan="3">Basic</td><td>1</td><td>Use a 5-year moving average model to estimate the global vertical HIV transmission rate in 2025, and discuss its limitations as a predictive method.</td><td><a href="https://chatgpt.com/share/67ee7ae4-dca0-8000-a458-ba75650059ea">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_353eb22e-e08c-4be9-bfc5-c48ade6c1194">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/0be3556a-54ff-4c9a-9d18-641896eeda98">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>Fit a simple linear regression model to project the HIV incidence rate among children aged 0–14 in 2024, and discuss its assumptions and limitations.</td><td><a href="https://chatgpt.com/share/67ee7b65-9100-8000-ae41-3520621304ea">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_86a22259-c5a7-4907-a723-3499fbc9f805">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/80fffd26-566d-4643-a619-18e71435a7f2">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>Using historical data (2005–2023), calculate prediction intervals for HIV case growth in 2024, incorporating median estimates and uncertainty bounds.</td><td><a href="https://chatgpt.com/share/67ee7d5b-32f4-8000-8935-2af00c753e11">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_785c462f-b214-42d4-81d9-3d80ff24f776">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/308d7204-625d-4095-982f-2aa17edddc99">Link</a></td><td>File</td></tr>
-
-<tr><td rowspan="3">Moderate</td><td>1</td><td>Develop a simulation model to estimate HIV-associated mortality under different assumptions about treatment coverage and intervention effectiveness.</td><td><a href="https://chatgpt.com/share/67ee7edd-e38c-8000-8d49-d26b3e28eac9">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_5d98a764-e1b3-458e-bca6-4a70532b884e">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/5eba0a43-168a-4520-9f86-301c035f569d">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>Compare ARIMA and an LSTM-based deep learning model for predicting HIV incidence among adolescents (15–19) in the Americas (2024–2026). Evaluate performance using RMSE.</td><td><a href="https://chatgpt.com/share/67ee8033-3624-8000-8874-f6cce83d884b">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_def5057e-b59e-411a-9ca5-c06c21481a0c">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/f19fc6d8-4f8f-4780-a8f7-ce2f6fa2d029">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>Evaluate the effect of hypothetical HIV prevention interventions on projected new infections among children (0–14) in Afghanistan (2025) using a generalized additive model.</td><td><a href="https://chatgpt.com/share/67ee80d4-0174-8000-a7e9-1a2ee2453e8a">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_21973380-da97-4d8b-b35f-80894f06b7a1">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/304d95d9-0d88-459c-bfa1-b5d082fe8f7f">Link</a></td><td>File</td></tr>
-
-<tr><td rowspan="3">Challenging</td><td>1</td><td>Use a Bayesian state-space model to predict HIV incidence among adolescents (15–19) up to 2030, and analyze uncertainty propagation over time.</td><td><a href="https://chatgpt.com/share/67eebce2-6ce4-8000-b325-05118bd71c59">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_02a1e130-51d5-4ed1-af75-fcd69af951d4">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/6cf05277-4276-432b-a2d7-15655c653a52">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>Train a Gradient Boosting model to predict new HIV infections among children (0–14) and analyze feature importance using SHAP values.</td><td><a href="https://chatgpt.com/share/67eebdb7-37a4-8000-9225-ad7788a28d81">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_1b8cb724-37d8-475a-808a-859c21e036df">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/7844f00a-66cd-404c-88a2-635d0a4f12bc">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>Develop a compartmental SEIR model to estimate vertical HIV transmission rates in 2030 under three scenarios (optimistic, realistic, pessimistic), adjusting for regional variations in case incidence and prevention program coverage.</td><td><a href="https://chatgpt.com/share/67eebf00-0368-8000-af42-0690e74e0dad">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_0e3b45b9-6e00-42d6-b9cd-2eaf888d7b8c">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/04d5251b-03bd-466e-b815-d5e749ebae02">Link</a></td><td>File</td></tr>
-
-
-
-  <tr><td rowspan="9">Prescriptive</td><td rowspan="3">Basic</td><td>1</td><td>Identify the age group with the highest HIV incidence in 2023 and propose a data-driven prevention strategy, specifying biomedical, behavioral, and structural intervention components while addressing gender-specific risks.</td><td><a href="https://chatgpt.com/share/67eec053-e950-8000-b2d6-8ac74a7ecc94">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_471b9f15-18f7-4561-9f1d-353d84de7cfd">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/558a9e64-c684-4275-9366-6e236d22dae7">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>Using a standard ART efficacy model, estimate the minimum ART coverage needed in 2024 to achieve a 10% reduction in mother-to-child transmission in Europe. Justify your proposed target based on empirical data and transmission dynamics.</td><td><a href="https://chatgpt.com/share/67eec118-e7cc-8000-b5d0-58e2f4576234">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_75fe41e7-08f3-44e4-8093-ad36d6fc1406">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/8b97a43e-422a-4ab8-aa85-8f0d5aafa409">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>Identify the three most influential factors driving disparities in HIV prevalence across high-burden regions. Propose a multi-component intervention strategy addressing at least two of these factors, incorporating both healthcare and socioeconomic solutions.</td><td><a href="https://chatgpt.com/share/67eec1b6-14d4-8000-bbd9-a65b6dfbd60c">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_680f5d7b-a89e-4bc8-82b3-0bfb66d5b06c">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/e33a34e4-32b7-4e89-8489-287a5fc4aa7c">Link</a></td><td>File</td></tr>
-
-<tr><td rowspan="3">Moderate</td><td>1</td><td>Using 2023 vertical HIV transmission rates and ART efficacy estimates, model the minimum ART coverage required in 2024 to achieve a 50% reduction in transmission by 2030. Specify any assumptions regarding baseline transmission rates, ART uptake, and adherence.</td><td><a href="https://chatgpt.com/share/67eec3ef-c408-8000-863c-396ac51b9bd0">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_e0dde653-71b7-45c1-a6f3-d079c1f471cb">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/dd4323d5-f8bf-4957-af7b-bdaa1b303a5a">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>Develop region-specific HIV intervention strategies for countries in the Americas based on variations in incidence rates among children and adolescents.</td><td><a href="https://chatgpt.com/share/67eec590-cc90-8000-8396-1fa21489602d">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_23ee3ba9-aa7d-406e-bc5c-29f08622765c">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/6111b72c-bfde-4220-a8c3-e8cd641980de">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>Propose three interventions that integrate demographic targeting and regional data to reduce adolescent HIV mortality. Rank these interventions based on impact using measurable criteria such as cost-effectiveness, feasibility, and scalability.</td><td><a href="https://chatgpt.com/share/67eec65d-37f0-8000-97ce-973e4b4cfe35">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_db6bf495-ffc3-40ea-bef9-fadd80304b6a">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/b6928440-54a5-4a58-b8a3-77e79994d64f">Link</a></td><td>File</td></tr>
-
-<tr><td rowspan="3">Challenging</td><td>1</td><td>Develop two models to simulate reduced and increased variability in projected HIV incidence among children and adolescents. Specify key indicators and the statistical or epidemiological techniques used to quantify variability.</td><td><a href="https://chatgpt.com/share/67eec6f7-d5cc-8000-b620-823cd448fd0c">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_77aefab4-ca1a-4eac-9368-6e58f2299db3">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/e02e6c50-992a-4885-b70e-c2519fce8fad">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>Design a multisectoral strategy (health, education, social welfare) to reduce HIV incidence among children and adolescents by 2030. Specify how interventions should balance prevention and treatment, considering regional and demographic indicators.</td><td><a href="https://chatgpt.com/share/67eec8af-551c-8000-bb2a-55ceb3178560">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_ae4b8c70-8aba-42f8-b746-9261cf00c8ab">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/60c649b8-c7f8-45ff-968e-239b3c39790a">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>Using regional HIV incidence projections, design an optimized healthcare resource allocation plan to reduce new infections by 20% by 2030. Implement and compare machine learning algorithms (e.g., decision trees, neural networks) based on predictive accuracy and decision impact.</td><td><a href="https://chatgpt.com/share/67eecb78-6a94-8000-9653-e4f4e61049cd">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_59f781b0-3c31-45c4-806c-dfb475691afe">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/55c4d103-0cfd-4b10-9e68-71823084f75c">Link</a></td><td>File</td></tr>
-
-
-  </tbody>
+<td><a href="https://chatgpt.com/share/67edacc5-bfa8-8000-acb3-b8d760740b8b">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-challenging-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_6f5bcc82-c988-4dc4-a919-8676acc44ecf">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-challenging-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/40d5af7c-b938-42d3-a557-b27ea1f86d5a">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-challenging-3.pdf">File</a></td></tr>
+<tr><td rowspan="9">Predictive</td><td rowspan="3">Basic</td><td>1</td><td>Use a 5-year moving average model to estimate the global vertical HIV transmission rate in 2025, and discuss its limitations as a predictive method.</td><td><a href="https://chatgpt.com/share/67ee7ae4-dca0-8000-a458-ba75650059ea">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-basic-1.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_353eb22e-e08c-4be9-bfc5-c48ade6c1194">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-basic-1.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/0be3556a-54ff-4c9a-9d18-641896eeda98">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-basic-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>Fit a simple linear regression model to project the HIV incidence rate among children aged 0–14 in 2024, and discuss its assumptions and limitations.</td><td><a href="https://chatgpt.com/share/67ee7b65-9100-8000-ae41-3520621304ea">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-basic-2.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_86a22259-c5a7-4907-a723-3499fbc9f805">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-basic-2.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/80fffd26-566d-4643-a619-18e71435a7f2">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-basic-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>Using historical data (2005–2023), calculate prediction intervals for HIV case growth in 2024, incorporating median estimates and uncertainty bounds.</td><td><a href="https://chatgpt.com/share/67ee7d5b-32f4-8000-8935-2af00c753e11">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-basic-3.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_785c462f-b214-42d4-81d9-3d80ff24f776">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-basic-3.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/308d7204-625d-4095-982f-2aa17edddc99">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-basic-3.pdf">File</a></td></tr>
+<tr><td rowspan="3">Moderate</td><td>1</td><td>Develop a simulation model to estimate HIV-associated mortality under different assumptions about treatment coverage and intervention effectiveness.</td><td><a href="https://chatgpt.com/share/67ee7edd-e38c-8000-8d49-d26b3e28eac9">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-moderate-1.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_5d98a764-e1b3-458e-bca6-4a70532b884e">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-moderate-1.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/5eba0a43-168a-4520-9f86-301c035f569d">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-moderate-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>Compare ARIMA and an LSTM-based deep learning model for predicting HIV incidence among adolescents (15–19) in the Americas (2024–2026). Evaluate performance using RMSE.</td><td><a href="https://chatgpt.com/share/67ee8033-3624-8000-8874-f6cce83d884b">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-moderate-2.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_def5057e-b59e-411a-9ca5-c06c21481a0c">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-moderate-2.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/f19fc6d8-4f8f-4780-a8f7-ce2f6fa2d029">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-moderate-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>Evaluate the effect of hypothetical HIV prevention interventions on projected new infections among children (0–14) in Afghanistan (2025) using a generalized additive model.</td><td><a href="https://chatgpt.com/share/67ee80d4-0174-8000-a7e9-1a2ee2453e8a">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-moderate-3.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_21973380-da97-4d8b-b35f-80894f06b7a1">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-moderate-3.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/304d95d9-0d88-459c-bfa1-b5d082fe8f7f">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-moderate-3.pdf">File</a></td></tr>
+<tr><td rowspan="3">Challenging</td><td>1</td><td>Use a Bayesian state-space model to predict HIV incidence among adolescents (15–19) up to 2030, and analyze uncertainty propagation over time.</td><td><a href="https://chatgpt.com/share/67eebce2-6ce4-8000-b325-05118bd71c59">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-challenging-1.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_02a1e130-51d5-4ed1-af75-fcd69af951d4">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-challenging-1.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/6cf05277-4276-432b-a2d7-15655c653a52">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-challenging-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>Train a Gradient Boosting model to predict new HIV infections among children (0–14) and analyze feature importance using SHAP values.</td><td><a href="https://chatgpt.com/share/67eebdb7-37a4-8000-9225-ad7788a28d81">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-challenging-2.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_1b8cb724-37d8-475a-808a-859c21e036df">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-challenging-2.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/7844f00a-66cd-404c-88a2-635d0a4f12bc">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-challenging-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>Develop a compartmental SEIR model to estimate vertical HIV transmission rates in 2030 under three scenarios (optimistic, realistic, pessimistic), adjusting for regional variations in case incidence and prevention program coverage.</td><td><a href="https://chatgpt.com/share/67eebf00-0368-8000-af42-0690e74e0dad">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-challenging-3.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_0e3b45b9-6e00-42d6-b9cd-2eaf888d7b8c">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-challenging-3.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/04d5251b-03bd-466e-b815-d5e749ebae02">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-challenging-3.pdf">File</a></td></tr>
+<tr><td rowspan="9">Prescriptive</td><td rowspan="3">Basic</td><td>1</td><td>Identify the age group with the highest HIV incidence in 2023 and propose a data-driven prevention strategy, specifying biomedical, behavioral, and structural intervention components while addressing gender-specific risks.</td><td><a href="https://chatgpt.com/share/67eec053-e950-8000-b2d6-8ac74a7ecc94">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-basic-1.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_471b9f15-18f7-4561-9f1d-353d84de7cfd">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-basic-1.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/558a9e64-c684-4275-9366-6e236d22dae7">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-basic-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>Using a standard ART efficacy model, estimate the minimum ART coverage needed in 2024 to achieve a 10% reduction in mother-to-child transmission in Europe. Justify your proposed target based on empirical data and transmission dynamics.</td><td><a href="https://chatgpt.com/share/67eec118-e7cc-8000-b5d0-58e2f4576234">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-basic-2.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_75fe41e7-08f3-44e4-8093-ad36d6fc1406">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-basic-2.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/8b97a43e-422a-4ab8-aa85-8f0d5aafa409">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-basic-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>Identify the three most influential factors driving disparities in HIV prevalence across high-burden regions. Propose a multi-component intervention strategy addressing at least two of these factors, incorporating both healthcare and socioeconomic solutions.</td><td><a href="https://chatgpt.com/share/67eec1b6-14d4-8000-bbd9-a65b6dfbd60c">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-basic-3.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_680f5d7b-a89e-4bc8-82b3-0bfb66d5b06c">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-basic-3.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/e33a34e4-32b7-4e89-8489-287a5fc4aa7c">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-basic-3.pdf">File</a></td></tr>
+<tr><td rowspan="3">Moderate</td><td>1</td><td>Using 2023 vertical HIV transmission rates and ART efficacy estimates, model the minimum ART coverage required in 2024 to achieve a 50% reduction in transmission by 2030. Specify any assumptions regarding baseline transmission rates, ART uptake, and adherence.</td><td><a href="https://chatgpt.com/share/67eec3ef-c408-8000-863c-396ac51b9bd0">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-moderate-1.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_e0dde653-71b7-45c1-a6f3-d079c1f471cb">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-moderate-1.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/dd4323d5-f8bf-4957-af7b-bdaa1b303a5a">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-moderate-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>Develop region-specific HIV intervention strategies for countries in the Americas based on variations in incidence rates among children and adolescents.</td><td><a href="https://chatgpt.com/share/67eec590-cc90-8000-8396-1fa21489602d">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-moderate-2.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_23ee3ba9-aa7d-406e-bc5c-29f08622765c">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-moderate-2.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/6111b72c-bfde-4220-a8c3-e8cd641980de">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-moderate-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>Propose three interventions that integrate demographic targeting and regional data to reduce adolescent HIV mortality. Rank these interventions based on impact using measurable criteria such as cost-effectiveness, feasibility, and scalability.</td><td><a href="https://chatgpt.com/share/67eec65d-37f0-8000-97ce-973e4b4cfe35">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-moderate-3.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_db6bf495-ffc3-40ea-bef9-fadd80304b6a">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-moderate-3.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/b6928440-54a5-4a58-b8a3-77e79994d64f">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-moderate-3.pdf">File</a></td></tr>
+<tr><td rowspan="3">Challenging</td><td>1</td><td>Develop two models to simulate reduced and increased variability in projected HIV incidence among children and adolescents. Specify key indicators and the statistical or epidemiological techniques used to quantify variability.</td><td><a href="https://chatgpt.com/share/67eec6f7-d5cc-8000-b620-823cd448fd0c">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-challenging-1.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_77aefab4-ca1a-4eac-9368-6e58f2299db3">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-challenging-1.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/e02e6c50-992a-4885-b70e-c2519fce8fad">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-challenging-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>Design a multisectoral strategy (health, education, social welfare) to reduce HIV incidence among children and adolescents by 2030. Specify how interventions should balance prevention and treatment, considering regional and demographic indicators.</td><td><a href="https://chatgpt.com/share/67eec8af-551c-8000-bb2a-55ceb3178560">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-challenging-2.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_ae4b8c70-8aba-42f8-b746-9261cf00c8ab">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-challenging-2.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/60c649b8-c7f8-45ff-968e-239b3c39790a">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-challenging-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>Using regional HIV incidence projections, design an optimized healthcare resource allocation plan to reduce new infections by 20% by 2030. Implement and compare machine learning algorithms (e.g., decision trees, neural networks) based on predictive accuracy and decision impact.</td><td><a href="https://chatgpt.com/share/67eecb78-6a94-8000-9653-e4f4e61049cd">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-challenging-3.pdf">File</a></td><td><a href="https://grok.com/share/bGVnYWN5_59f781b0-3c31-45c4-806c-dfb475691afe">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-challenging-3.pdf">File</a></td><td><a href="https://chat.qwen.ai/s/55c4d103-0cfd-4b10-9e68-71823084f75c">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-challenging-3.pdf">File</a></td></tr>
+</tbody>
 </table>
 
 ## Results
