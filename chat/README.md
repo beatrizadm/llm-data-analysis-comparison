@@ -187,123 +187,164 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td rowspan="9">Descriptive</td><td rowspan="3">Basic</td><td>1</td><td>What is the number of different programs per state?</td><td><a href="https://chatgpt.com/share/67db1e1d-1268-8012-9e9f-38be674aa220">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_8d027d5e-9db0-498e-9e8b-15c0ff3b2126">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/c/a4cba1ad-59af-44ac-b319-9df592652999">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>What is the total contract value in the first month of the year?</td><td><a href="https://chatgpt.com/share/67db1e35-b028-8012-9d7e-f6756a77f844">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_1d8b5050-05d0-418a-948a-61fce4da9361">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/4fd96f3a-99d2-4658-ab48-0aed75444a47">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>What were the highest and lowest total contract values?</td><td><a href="https://chatgpt.com/share/67db1e5f-4d80-8012-b63a-3b28bf7e7721">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_a7c4b3e0-d1bf-44d1-bb71-cb717cfa14e6">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/585bc871-e7bc-4f05-8fb7-eb446d98aad3">Link</a></td><td>File</td></tr>
+    <tr><td rowspan="9">Descriptive</td><td rowspan="3">Basic</td><td>1</td><td>What is the number of different programs per state?</td><td><a href="https://chatgpt.com/share/67db1e1d-1268-8012-9e9f-38be674aa220">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-basic-1.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-basic-1.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-basic-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>What is the total contract value in the first month of the year?</td><td><a href="https://chatgpt.com/share/67db1e35-b028-8012-9d7e-f6756a77f844">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-basic-2.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-basic-2.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-basic-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>What were the highest and lowest total contract values?</td><td><a href="https://chatgpt.com/share/67db1e5f-4d80-8012-b63a-3b28bf7e7721">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-basic-3.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-basic-3.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-basic-3.pdf">File</a></td></tr>
 
-<tr><td rowspan="3">Moderate</td><td>1</td><td>What is the proportion of investment value per month?</td><td><a href="https://chatgpt.com/share/67db1e71-5a40-8012-8cd4-b41c6f106868">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_9aeff11d-b89d-4264-a0a1-d8ab5a8f1a4d">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/e17d2c9f-ef3c-49f8-b984-8418dc4eb6e9">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>How is investment distributed among financial institutions?</td><td><a href="https://chatgpt.com/share/67db1e86-15d8-8012-912f-fef19db2f018">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_42520f31-972b-461b-84f1-18728a2b06b2">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/da7539be-4edb-4562-a9c6-507d9571fd1f">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>Which municipality recorded the highest total investment value in each specific program?</td><td><a href="https://chatgpt.com/share/67db1e9c-6a3c-8012-b605-441f6e1c4711">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_cc97a587-2195-4572-b2ce-9f15caa504ab">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/42d8dbe3-3363-40da-9333-c1c9b6eb15e7">Link</a></td><td>File</td></tr>
+<tr><td rowspan="3">Moderate</td><td>1</td><td>What is the proportion of investment value per month?</td><td><a href="https://chatgpt.com/share/67db1e71-5a40-8012-8cd4-b41c6f106868">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-moderate-1.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-moderate-1.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-moderate-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>How is investment distributed among financial institutions?</td><td><a href="https://chatgpt.com/share/67db1e86-15d8-8012-912f-fef19db2f018">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-moderate-2.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-moderate-2.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-moderate-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>Which municipality recorded the highest total investment value in each specific program?</td><td><a href="https://chatgpt.com/share/67db1e9c-6a3c-8012-b605-441f6e1c4711">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-moderate-3.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-moderate-3.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-moderate-3.pdf">File</a></td></tr>
 
-<tr><td rowspan="3">Challenging</td><td>1</td><td>How does the total amount invested vary by contract issuance month?</td><td><a href="https://chatgpt.com/share/67db1eac-2bb8-8012-9e82-37cc3ff8759b">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_313cbdde-129e-4118-aed7-91b6af01cd2e">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/02f72d45-c541-4fd2-9274-dd9dd444861a">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>Which attribute represents the greatest information gain of the entire dataset?</td><td><a href="https://chatgpt.com/share/67db1ec0-73d0-8012-93ea-54ff5226663f">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_2842803a-2ea4-440b-97ac-c2011cfae4fa">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/47011576-a9c1-4b81-9714-e91a1d08527d">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>How unequal is the distribution of investment by financial institution?</td><td><a href="https://chatgpt.com/share/67db1e07-dab8-8012-a735-278196613e18">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_b9f54c5f-765d-4d5f-90a8-bc60b56cabd7">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/99ec0d9b-2e6d-4235-97b8-22920a7fc4c4">Link</a></td><td>File</td></tr>
-
-
-<tr><td rowspan="9">Diagnostic</td><td rowspan="3">Basic</td><td>1</td><td>Does the state contribute to an increase in the total contract value?</td>
-  <td><a href="https://chatgpt.com/share/67db1f6a-dc70-8012-b1e7-59eb20f7f3d6">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_fe32e7c4-b094-4d2b-bce5-af9460184804">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/b22ee4a6-0a49-45cf-a84f-79a263af1d31">Link</a></td><td>File</td></tr>
-
-<tr><td>2</td><td>Does the funding area impact the total contract value?</td>
-  <td><a href="https://chatgpt.com/share/67db202f-f3bc-8012-ac1e-e3090bac69ef">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_d921767e-aa0e-47b0-950e-ebd173089d5a">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/f3fcbc43-99c3-452e-b2ed-2e370e1eef24">Link</a></td><td>File</td></tr>
-
-<tr><td>3</td><td>How does the quantity of industrialized items relate to variations in total value allocated to industrialization?</td>
-  <td><a href="https://chatgpt.com/share/67dc1c65-d124-8011-b96a-7b6a41281d98">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_61ac84c6-0b30-42db-9839-65d35fbff7ab">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/c101c03b-7a2a-4686-be06-758fa4d2067e">Link</a></td><td>File</td></tr>
-
-<tr><td rowspan="3">Moderate</td><td>1</td><td>How does the state influence the total area allocated to investments?</td>
-  <td><a href="https://chatgpt.com/share/67dc1e02-d4c4-8012-96c4-6e312205866f">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_0e786262-fc95-457a-97ee-a41b1eeb691b">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/d453cc31-5da1-4b78-8e6f-abbf178fee05">Link</a></td><td>File</td></tr>
-
-<tr><td>2</td><td>What factors are associated with some economic activities receiving higher investment values than others?</td>
-  <td><a href="https://chatgpt.com/share/67dc1ed4-1d04-8012-9ee3-95ce8c1b1896">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_dde5493c-fe2c-400d-ad7a-7e4543293d53">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/2e5ccf5a-844e-4e25-8717-cdb0222bc57f">Link</a></td><td>File</td></tr>
-
-<tr><td>3</td><td>How does the subprogram classification influence the total contract value?</td>
-  <td><a href="https://chatgpt.com/share/67dc1f69-e474-8012-8c64-76bd8e1ce70b">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_c645b0d8-5813-4524-b572-6b9a18bdbc46">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/3d2abdbb-b37b-493d-ba0d-c5b9abcc9bdb">Link</a></td><td>File</td></tr>
-
-<tr><td rowspan="3">Challenging</td><td>1</td><td>Is there a statistical relationship between the distribution of resource sources and the allocation of values within the contract?</td>
-  <td><a href="https://chatgpt.com/share/67dc1ff1-22e8-8012-a876-f425a79121b6">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_7221cbf3-7f42-4787-8cd4-60a7cfc39c9e">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/7e59b291-4838-4a71-ba03-f6d5f78a8f8e">Link</a></td><td>File</td></tr>
-
-<tr><td>2</td><td>How elastic is the total contract value in response to changes in the investment area?</td>
-  <td><a href="https://chatgpt.com/share/67dc2116-7658-8012-8d9a-202dac0ed972">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_18aa3906-635c-4cd6-ba8b-cc03a0d5587a">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/f48a9686-7a85-484f-8d22-46f478207526">Link</a></td><td>File</td></tr>
-
-<tr><td>3</td><td>What key operational and structural factors differentiate financial institutions with the highest investment activity in the first trimester from those with lower investment activity?</td>
-  <td><a href="https://chatgpt.com/share/67dc21ab-1fc0-8012-94cf-daea5eef097b">Link</a></td><td>File</td>
-  <td><a href="https://grok.com/share/bGVnYWN5_2833b0c9-f7fe-41c0-a861-c0ee7be77519">Link</a></td><td>File</td>
-  <td><a href="https://chat.qwen.ai/s/4954c059-63a0-4909-9f34-3ee065b4ae11">Link</a></td><td>File</td></tr>
+<tr><td rowspan="3">Challenging</td><td>1</td><td>How does the total amount invested vary by contract issuance month?</td><td><a href="https://chatgpt.com/share/67db1eac-2bb8-8012-9e82-37cc3ff8759b">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-challenging-1.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-challenging-1.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-challenging-1.pdf">File</a></td></tr>
+<tr><td>2</td><td>Which attribute represents the greatest information gain of the entire dataset?</td><td><a href="https://chatgpt.com/share/67db1ec0-73d0-8012-93ea-54ff5226663f">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-challenging-2.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-challenging-2.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-challenging-2.pdf">File</a></td></tr>
+<tr><td>3</td><td>How unequal is the distribution of investment by financial institution?</td><td><a href="https://chatgpt.com/share/67db1e07-dab8-8012-a735-278196613e18">Link</a></td><td><a href="../chat/SICOR/ChatGPTs Data Analyst/chatgpt-descriptive-challenging-3.pdf">File</a></td><td><a href="../chat/SICOR/Grok/grok-descriptive-challenging-3.pdf">File</a></td><td><a href="../chat/SICOR/Qwen/qwen-descriptive-challenging-3.pdf">File</a></td></tr>
 
 
+<tr><td rowspan="9">Diagnostic</td><td rowspan="3">Basic</td><td>1</td><td>Does the state contribute to an increase in the total SICOR contract value?</td>
+  <td><a href="https://chatgpt.com/share/67db1f6a-dc70-8012-b1e7-59eb20f7f3d6">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-basic-1.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_fe32e7c4-b094-4d2b-bce5-af9460184804">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-basic-1.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/b22ee4a6-0a49-45cf-a84f-79a263af1d31">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-basic-1.pdf">File</a></td></tr>
 
-  <tr><td rowspan="9">Predictive</td><td rowspan="3">Basic</td><td>1</td><td>Can the volume of granted contracts be predicted based on the monthly granting history? Define three options to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dc225e-472c-8012-b304-219e9ee249e7">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_03cbdb85-ce22-4d6d-a7dd-8a6e0d6fe606">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/12fe70c5-c470-48fb-a85c-0182000f4f91">Link</a></td><td>File</td></tr>
+<tr><td>2</td><td>Does the funding area impact the total SICOR contract value?</td>
+  <td><a href="https://chatgpt.com/share/67db202f-f3bc-8012-ac1e-e3090bac69ef">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-basic-2.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_d921767e-aa0e-47b0-950e-ebd173089d5a">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-basic-2.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/f3fcbc43-99c3-452e-b2ed-2e370e1eef24">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-basic-2.pdf">File</a></td></tr>
+
+<tr><td>3</td><td>How does the quantity of industrialized items relate to variations in total value allocated to SICOR industrialization?</td>
+  <td><a href="https://chatgpt.com/share/67dc1c65-d124-8011-b96a-7b6a41281d98">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-basic-3.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_61ac84c6-0b30-42db-9839-65d35fbff7ab">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-basic-3.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/c101c03b-7a2a-4686-be06-758fa4d2067e">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-basic-3.pdf">File</a></td></tr>
+
+<tr><td rowspan="3">Moderate</td><td>1</td><td>How does the state influence the total area allocated to SICOR investments?</td>
+  <td><a href="https://chatgpt.com/share/67dc1e02-d4c4-8012-96c4-6e312205866f">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-moderate-1.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_0e786262-fc95-457a-97ee-a41b1eeb691b">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-moderate-1.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/d453cc31-5da1-4b78-8e6f-abbf178fee05">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-moderate-1.pdf">File</a></td></tr>
+
+<tr><td>2</td><td>What factors are associated with some SICOR economic activities receiving higher investment values than others?</td>
+  <td><a href="https://chatgpt.com/share/67dc1ed4-1d04-8012-9ee3-95ce8c1b1896">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-moderate-2.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_dde5493c-fe2c-400d-ad7a-7e4543293d53">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-moderate-2.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/2e5ccf5a-844e-4e25-8717-cdb0222bc57f">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-moderate-2.pdf">File</a></td></tr>
+
+<tr><td>3</td><td>How does the SICOR subprogram classification influence the total contract value?</td>
+  <td><a href="https://chatgpt.com/share/67dc1f69-e474-8012-8c64-76bd8e1ce70b">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-moderate-3.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_c645b0d8-5813-4524-b572-6b9a18bdbc46">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-moderate-3.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/3d2abdbb-b37b-493d-ba0d-c5b9abcc9bdb">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-moderate-3.pdf">File</a></td></tr>
+
+<tr><td rowspan="3">Challenging</td><td>1</td><td>Is there a statistical relationship between the distribution of SICOR resource sources and the allocation of values within the contract?</td>
+  <td><a href="https://chatgpt.com/share/67dc1ff1-22e8-8012-a876-f425a79121b6">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-challenging-1.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_7221cbf3-7f42-4787-8cd4-60a7cfc39c9e">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-challenging-1.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/7e59b291-4838-4a71-ba03-f6d5f78a8f8e">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-challenging-1.pdf">File</a></td></tr>
+
+<tr><td>2</td><td>How elastic is the total SICOR contract value in response to changes in the investment area?</td>
+  <td><a href="https://chatgpt.com/share/67dc2116-7658-8012-8d9a-202dac0ed972">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-challenging-2.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_18aa3906-635c-4cd6-ba8b-cc03a0d5587a">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-challenging-2.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/f48a9686-7a85-484f-8d22-46f478207526">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-challenging-2.pdf">File</a></td></tr>
+
+<tr><td>3</td><td>What key operational and structural factors differentiate SICOR financial institutions with the highest investment activity in the first trimester from those with lower investment activity?</td>
+  <td><a href="https://chatgpt.com/share/67dc21ab-1fc0-8012-94cf-daea5eef097b">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-diagnostic-challenging-3.pdf">File</a></td>
+  <td><a href="https://grok.com/share/bGVnYWN5_2833b0c9-f7fe-41c0-a861-c0ee7be77519">Link</a></td><td><a href="../chat/HIV/Grok/grok-diagnostic-challenging-3.pdf">File</a></td>
+  <td><a href="https://chat.qwen.ai/s/4954c059-63a0-4909-9f34-3ee065b4ae11">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-diagnostic-challenging-3.pdf">File</a></td></tr>
+
+
+<tr><td rowspan="9">Predictive</td><td rowspan="3">Basic</td><td>1</td><td>Can the volume of granted contracts be predicted based on the monthly granting history? Define three options to address this issue and select the best one.</td> 
+<td><a href="https://chatgpt.com/share/67dc225e-472c-8012-b304-219e9ee249e7">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-basic-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_03cbdb85-ce22-4d6d-a7dd-8a6e0d6fe606">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-basic-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/12fe70c5-c470-48fb-a85c-0182000f4f91">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-basic-1.pdf">File</a></td></tr>
 
 <tr><td>2</td><td>What is the probability that the value allocated to industrialization will be greater than the value involved in commercialization, based on the contract’s state? Define three approaches to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dc22d9-9460-8012-8e67-852a89e40603">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_3b1c9300-cde8-49ef-b0d3-cd810f6cc308">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/f4f27e52-7ab9-421c-9819-fca39a9b3147">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dc22d9-9460-8012-8e67-852a89e40603">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-basic-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_3b1c9300-cde8-49ef-b0d3-cd810f6cc308">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-basic-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/f4f27e52-7ab9-421c-9819-fca39a9b3147">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-basic-2.pdf">File</a></td></tr>
 
 <tr><td>3</td><td>How effective is the subprogram code as a feature for predicting industrialization-related operations? Define three approaches to evaluate its relevance and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dde573-91e0-8012-ab82-6f05df2605a4">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_c62f05f8-3e0b-4164-9f59-bac3de5293f3">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/3a5d0453-f88a-4f1d-a800-63ae15c5931b">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dde573-91e0-8012-ab82-6f05df2605a4">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-basic-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_c62f05f8-3e0b-4164-9f59-bac3de5293f3">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-basic-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/3a5d0453-f88a-4f1d-a800-63ae15c5931b">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-basic-3.pdf">File</a></td></tr>
 
 <tr><td rowspan="3">Moderate</td><td>1</td><td>In the state with the highest number of contracts, what factors increase the probability of approving a new contract? Define three options to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dda589-874c-8012-8e1e-4f20efb505aa">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_8864bff6-084d-427c-8e9a-87623fe2d38c">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/2fff34f9-afab-4f96-ae60-09d87352237e">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dda589-874c-8012-8e1e-4f20efb505aa">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-moderate-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_8864bff6-084d-427c-8e9a-87623fe2d38c">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-moderate-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/2fff34f9-afab-4f96-ae60-09d87352237e">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-moderate-1.pdf">File</a></td></tr>
 
 <tr><td>2</td><td>How can the total contract value be reliably estimated based on financial institution profiles, resource sources, and program codes? Define three approaches to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dc24cb-2a04-8012-8cc3-311d3eadd431">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_076456e0-8a4a-4567-b496-b408e1285db7">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/62caf8ab-925f-4ba4-9be2-7fabb3b13d9f">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dc24cb-2a04-8012-8cc3-311d3eadd431">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-moderate-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_076456e0-8a4a-4567-b496-b408e1285db7">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-moderate-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/62caf8ab-925f-4ba4-9be2-7fabb3b13d9f">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-moderate-2.pdf">File</a></td></tr>
 
 <tr><td>3</td><td>Is it possible to predict the top 10 financial institutions that will receive the most investment for the rest of the year based on data from the first semester? Define three approaches to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dcb266-bfc4-8012-b819-defae836e397">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_cd311c70-4580-40f5-afa6-ff8112d3a63e">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/bf20ed57-c97e-40bf-968f-10c81e75ea05">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dcb266-bfc4-8012-b819-defae836e397">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-moderate-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_cd311c70-4580-40f5-afa6-ff8112d3a63e">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-moderate-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/bf20ed57-c97e-40bf-968f-10c81e75ea05">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-moderate-3.pdf">File</a></td></tr>
 
 <tr><td rowspan="3">Challenging</td><td>1</td><td>Based on investment trends from the first trimester is it possible to predict which municipality, in each state, will have the highest total contract value in the second trimester? Define three options to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dcb2d2-b480-8012-890e-8685efc52d70">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_b393e0fd-f9d4-4f70-b144-558466954ca2">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/1c893f4a-2b04-4992-b7c9-c2158436fa4a">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dcb2d2-b480-8012-890e-8685efc52d70">Link</a></td><td><a ="../hrefchat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-challenging-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_b393e0fd-f9d4-4f70-b144-558466954ca2">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-challenging-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/1c893f4a-2b04-4992-b7c9-c2158436fa4a">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-challenging-1.pdf">File</a></td></tr>
 
 <tr><td>2</td><td>Can a model predict the most used program code for each month of next year in the state with the highest variation in its most frequent program, based on historical contract granting patterns? Define three approaches to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dcb340-e01c-8012-8cd8-a6fa4b8fed82">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_190a5f76-38e0-4235-9b1e-2c52be9fd806">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/fb956005-73b5-47a5-b7d1-d8eab465e570">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dcb340-e01c-8012-8cd8-a6fa4b8fed82">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-challenging-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_190a5f76-38e0-4235-9b1e-2c52be9fd806">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-challenging-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/fb956005-73b5-47a5-b7d1-d8eab465e570">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-challenging-2.pdf">File</a></td></tr>
 
 <tr><td>3</td><td>Through an advanced analysis, is it possible to predict which financial institutions will have the largest participation in granting commercialization investments in upcoming periods, based on their historical resource distribution and other available factors? Define three options to address this issue and select the best one.</td>
-<td><a href="https://chatgpt.com/share/67dcb404-67a0-8012-bb32-ec3274b3953f">Link</a></td><td>File</td>
-<td><a href="https://grok.com/share/bGVnYWN5_3d3c37b2-fe04-48df-b9bf-531ce7e84e27">Link</a></td><td>File</td>
-<td><a href="https://chat.qwen.ai/s/89d419b6-0865-4c64-8dad-8579d88f24eb">Link</a></td><td>File</td></tr>
+<td><a href="https://chatgpt.com/share/67dcb404-67a0-8012-bb32-ec3274b3953f">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-predictive-challenging-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_3d3c37b2-fe04-48df-b9bf-531ce7e84e27">Link</a></td><td><a href="../chat/HIV/Grok/grok-predictive-challenging-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/89d419b6-0865-4c64-8dad-8579d88f24eb">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-predictive-challenging-3.pdf">File</a></td></tr>
 
 
-  <tr><td rowspan="9">Prescriptive</td><td rowspan="3">Basic</td><td>1</td><td>What are the variables that most influence the differentiation between institutions that contribute the most and the least to the total contract value? Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67dcb493-7cd0-8012-8099-3364451c0dc3">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_2b1b334f-6a03-45fd-b55f-1e4c8f8aaa9f">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/69f323fe-02de-4a34-a6b8-307ff8247f8f">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>What programs can municipalities with the lowest investments in each state switch to in order to increase their contract value? Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67dcb52d-36cc-8012-b7cf-a2a9ff17cae6">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_d9282b5c-edfb-4f01-83d0-63a9d067f084">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/89dc521f-2d6a-48ed-8142-a6f609a229fe">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>How can the characteristics of a state's contracts influence the increase in the value allocated to industrialization? Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67dcb5a1-db40-8012-836d-f092f8bded35">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_1b766799-d515-4517-9533-da2ec5733b33">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/0055deab-6882-4204-81c8-1f465eef94ec">Link</a></td><td>File</td></tr>
+  <tr><td rowspan="9">Prescriptive</td><td rowspan="3">Basic</td><td>1</td>
+<td>What are the variables that most influence the differentiation between institutions that contribute the most and the least to the total contract value? Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67dcb493-7cd0-8012-8099-3364451c0dc3">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-basic-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_2b1b334f-6a03-45fd-b55f-1e4c8f8aaa9f">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-basic-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/69f323fe-02de-4a34-a6b8-307ff8247f8f">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-basic-1.pdf">File</a></td></tr>
 
-<tr><td rowspan="3">Moderate</td><td>1</td><td>How can the diversification of resource sources impact investment growth in municipalities with the lowest applied volume? Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67dcb661-6498-8012-8a18-b8d3b3a64a5a">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_f8aa594b-4fa8-4076-9e13-000716153319">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/e722c676-8d2c-4de9-853d-fc4bf0dd8925">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>How can financial institutions change programs, subprograms, and activities to increase the total contract value in states where they have the lowest allocated amounts? Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67ec0e04-cee0-8012-bde9-f2082e30c19a">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_81b589ac-736a-4ae0-92b3-35d707a3c5d7">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/749cf6ed-c63d-4257-be03-c5f14eeff551">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>How can the combination of characteristics of each activity increase the total contract value? Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67e30f36-7e60-8002-8a51-a6c0e76738ff">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_3b3c6844-4b88-4bfe-968a-d0d1c226ef7f">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/9aa4f67b-9973-4144-942d-b4456d02c0a6">Link</a></td><td>File</td></tr>
+<tr><td>2</td>
+<td>What programs can municipalities with the lowest investments in each state switch to in order to increase their contract value? Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67dcb52d-36cc-8012-b7cf-a2a9ff17cae6">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-basic-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_d9282b5c-edfb-4f01-83d0-63a9d067f084">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-basic-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/89dc521f-2d6a-48ed-8142-a6f609a229fe">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-basic-2.pdf">File</a></td></tr>
 
-<tr><td rowspan="3">Challenging</td><td>1</td><td>What adjustments can be made so that investment values in commercialization have a more uniform distribution among cities within the same state? Identify states where commercialization investment is already well-distributed and use them as benchmarks to explain possible strategies. Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67ec11f5-90a0-8011-9d27-f8d159456c4f">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_e2391ee1-755c-4ad9-8a6e-fb25a8b7c196">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/87e44418-d031-4c39-8915-ec599f993214">Link</a></td><td>File</td></tr>
-<tr><td>2</td><td>How can the distribution of investment values among funding, investment, commercialization, and industrialization be optimized to maximize the invested value? Define three options to address this issue and select the best one.</td><td><a href="https://chatgpt.com/share/67dd3e23-d7cc-8012-a718-8741f7f484f6">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_c07ec745-ad0a-47f4-a206-7741df58de65">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/0744a697-3e91-4c47-95c0-5fb8e2dd712d">Link</a></td><td>File</td></tr>
-<tr><td>3</td><td>What strategies can be implemented to increase the total value of contracts in a given state, considering monthly trends and taking inspiration from successful patterns observed in another state? Identify key factors such as resource allocation, focus on economic activities, contract structuring, and seasonal effects on investment distribution. Define three approaches to address this issue and select the best one, ensuring that numerical trends are clearly analyzed.</td><td><a href="https://chatgpt.com/share/67dd3faa-0868-8012-9038-20cd65d8fb75">Link</a></td><td>File</td><td><a href="https://grok.com/share/bGVnYWN5_b88dfb38-ffd4-4152-b8f3-54cdced91b89">Link</a></td><td>File</td><td><a href="https://chat.qwen.ai/s/3b05c56d-1f2e-44b4-b22c-d0b3ff11d9ae">Link</a></td><td>File</td></tr>
+<tr><td>3</td>
+<td>How can the characteristics of a state's contracts influence the increase in the value allocated to industrialization? Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67dcb5a1-db40-8012-836d-f092f8bded35">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-basic-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_1b766799-d515-4517-9533-da2ec5733b33">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-basic-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/0055deab-6882-4204-81c8-1f465eef94ec">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-basic-3.pdf">File</a></td></tr>
+
+<tr><td rowspan="3">Moderate</td><td>1</td>
+<td>How can the diversification of resource sources impact investment growth in municipalities with the lowest applied volume? Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67dcb661-6498-8012-8a18-b8d3b3a64a5a">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-moderate-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_f8aa594b-4fa8-4076-9e13-000716153319">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-moderate-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/e722c676-8d2c-4de9-853d-fc4bf0dd8925">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-moderate-1.pdf">File</a></td></tr>
+
+<tr><td>2</td>
+<td>How can financial institutions change programs, subprograms, and activities to increase the total contract value in states where they have the lowest allocated amounts? Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67ec0e04-cee0-8012-bde9-f2082e30c19a">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-moderate-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_81b589ac-736a-4ae0-92b3-35d707a3c5d7">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-moderate-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/749cf6ed-c63d-4257-be03-c5f14eeff551">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-moderate-2.pdf">File</a></td></tr>
+
+<tr><td>3</td>
+<td>How can the combination of characteristics of each activity increase the total contract value? Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67e30f36-7e60-8002-8a51-a6c0e76738ff">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-moderate-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_3b3c6844-4b88-4bfe-968a-d0d1c226ef7f">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-moderate-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/9aa4f67b-9973-4144-942d-b4456d02c0a6">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-moderate-3.pdf">File</a></td></tr>
+
+<tr><td rowspan="3">Challenging</td><td>1</td>
+<td>What adjustments can be made so that investment values in commercialization have a more uniform distribution among cities within the same state? Identify states where commercialization investment is already well-distributed and use them as benchmarks to explain possible strategies. Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67ec11f5-90a0-8011-9d27-f8d159456c4f">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-challenging-1.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_e2391ee1-755c-4ad9-8a6e-fb25a8b7c196">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-challenging-1.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/87e44418-d031-4c39-8915-ec599f993214">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-challenging-1.pdf">File</a></td></tr>
+
+<tr><td>2</td>
+<td>How can the distribution of investment values among funding, investment, commercialization, and industrialization be optimized to maximize the invested value? Define three options to address this issue and select the best one.</td>
+<td><a href="https://chatgpt.com/share/67dd3e23-d7cc-8012-a718-8741f7f484f6">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-challenging-2.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_c07ec745-ad0a-47f4-a206-7741df58de65">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-challenging-2.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/0744a697-3e91-4c47-95c0-5fb8e2dd712d">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-challenging-2.pdf">File</a></td></tr>
+
+<tr><td>3</td>
+<td>What strategies can be implemented to increase the total value of contracts in a given state, considering monthly trends and taking inspiration from successful patterns observed in another state? Identify key factors such as resource allocation, focus on economic activities, contract structuring, and seasonal effects on investment distribution. Define three approaches to address this issue and select the best one, ensuring that numerical trends are clearly analyzed.</td>
+<td><a href="https://chatgpt.com/share/67dd3faa-0868-8012-9038-20cd65d8fb75">Link</a></td><td><a href="../chat/HIV/ChatGPTs Data Analyst/chatgpt-prescriptive-challenging-3.pdf">File</a></td>
+<td><a href="https://grok.com/share/bGVnYWN5_b88dfb38-ffd4-4152-b8f3-54cdced91b89">Link</a></td><td><a href="../chat/HIV/Grok/grok-prescriptive-challenging-3.pdf">File</a></td>
+<td><a href="https://chat.qwen.ai/s/3b05c56d-1f2e-44b4-b22c-d0b3ff11d9ae">Link</a></td><td><a href="../chat/HIV/Qwen/qwen-prescriptive-challenging-3.pdf">File</a></td></tr>
 
 
   </tbody>
