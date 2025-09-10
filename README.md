@@ -6,8 +6,10 @@ Official repo for "How Effectively Do LLMs Automate Data Analysis? A Comparative
 
 ## Assets
 
+1. Prompts used: [here](./prompts.md)
 1. Chat history: [here](./chat)
 1. Generated code: [here](./code)
+
 
 ## Schema
 
